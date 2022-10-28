@@ -1,10 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: SU2
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+SU2 is a multiphysics code for fluid dynamics and multiphysics simulation and optimization. SU2 is made for unstructured grids and its fluid dynamics capabilities include RANS, LES, and hybrid models.
 
 ### Stats
 
